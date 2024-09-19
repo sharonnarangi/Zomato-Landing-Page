@@ -1,1 +1,10 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+.navigation .logo a {
+    text-decoration: none;
+    
+    
+} 
+
+.navigationbar{
+    list-style: none;
+}
