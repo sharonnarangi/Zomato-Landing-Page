@@ -101,12 +101,32 @@ body{
     border-radius: 10px;
     display: flex;
     align-items: center;
+    padding: 7px;
+    color: black;
 }
 .fa-location-pin{
 
 color: red;
 font-size: 23px;
 }
-.fa-caret-up{
+.fa-caret-down{
     color: black;
+}
+.detectionLocation input{
+    border: none;
+    font-size: 14px;
+    width: 190px;
+
+}
+.search-item{
+    color: black;
+    font-size: 18px;
+}
+.line{
+    padding: 7px;
+}
+.search-item input{
+    max-width: fit-content;
+
+
 }
