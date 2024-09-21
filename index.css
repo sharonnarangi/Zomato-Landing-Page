@@ -135,3 +135,17 @@ font-size: 23px;
 
 
 }
+/**section 1 feature**/
+.container-feature{
+    display: flex;
+    justify-content: space-between;
+
+}
+.feature-image{
+    height: 200px;
+    overflow: hidden;
+}
+.feature-image img{
+    width: 100%;
+
+}
