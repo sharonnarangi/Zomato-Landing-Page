@@ -173,3 +173,31 @@ border: 0.1px solid rgb(235, 232, 232);
     transform: scale(1.04);
     cursor: pointer;
  }
+
+ /**SECTION 2**/
+
+ .section-2-left h1{
+    font-size: 40px;
+    margin-bottom: 0;
+
+ }
+ .section-2-left p{
+    font-size: 20px;
+    margin-top: 0;
+    letter-spacing:1px;
+    font-weight: 200;
+ }
+ 
+ .section-2-top{
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .section-2-Right{
+    align-self: flex-end;
+    color: rgb(209, 20, 20);
+ }
+
+ .section-2-item{
+    
+ }
