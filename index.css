@@ -136,12 +136,22 @@ font-size: 23px;
 
 }
 /**section 1 feature**/
+
+.section-1{
+    margin-top: 40px;
+}
 .container-feature{
     display: flex;
     justify-content: space-between;
 
 }
+.features{
+overflow: hidden;
+border-radius: 20px;
+}
+
 .feature-image{
+    width: 350px;
     height: 200px;
     overflow: hidden;
 }
