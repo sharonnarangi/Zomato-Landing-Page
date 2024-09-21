@@ -150,7 +150,7 @@ font-size: 23px;
 .features{
 overflow: hidden;
 border-radius: 20px;
-border: 0.5px solid gray;
+border: 0.1px solid rgb(216, 212, 212);
 
 }
 
@@ -163,4 +163,8 @@ border: 0.5px solid gray;
     width: 100%;
     background-position-y: 100px;
 
+}
+.features h3,
+.features p{
+    padding-left: 20px;
 }
