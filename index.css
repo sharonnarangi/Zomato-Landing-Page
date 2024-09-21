@@ -119,7 +119,7 @@ font-size: 23px;
 
 }
 .search-item{
-    color: black;
+    color: rgb(106, 104, 104);
     font-size: 18px;
 }
 .line{
@@ -127,7 +127,11 @@ font-size: 23px;
 }
 .search-item input{
     max-width: 100%;
-    width: fit-content;
+    width: 400px;
+    font-size: 15px;
+    border: none;
+    padding:  5px 10px;
+    outline: none;
 
 
 }
