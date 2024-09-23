@@ -294,3 +294,16 @@ margin-left: 0;
     justify-content: space-between;
 
 }
+
+/**Section 4**/
+.section-4{
+    display: flex;
+
+}
+.zomato-app-image{
+    width: 200px;
+
+}
+.zomato-app-image img{
+    width: 100%;
+}

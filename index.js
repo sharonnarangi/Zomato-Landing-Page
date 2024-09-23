@@ -11,7 +11,7 @@ let htmlLocalitiesList = city.map((el)=>{
     <div class="localities-list">
       <div class="localities-card">
         <h3>${el.name}</h3>
-        <p>${el.place}</p>
+        <p>${el?.place}</p>
       </div>
       <i class="fas fa-angle-right"></i>
     </div>
