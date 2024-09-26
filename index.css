@@ -312,7 +312,7 @@ margin-left: 0;
 }
 .zomato-app-details h1{
     font-size: 50px;
-    margin-bottom: 0;
+    margin-top: 0;
 
 }
 .zomato-app-details p{
@@ -352,4 +352,17 @@ margin-left: 0;
      border-radius: 5px;
 
 
+}
+.zomato-app-radio-btn{
+    margin: 5px 0px;
+    font-size: 18px;
+}
+.download-app{
+    display: flex;
+}
+
+.download-app img{
+    width: 100%;
+    max-width: 120px;
+    margin-right: 10px;
 }
